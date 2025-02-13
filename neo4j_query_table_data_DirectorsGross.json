@@ -1,0 +1,42 @@
+[
+  {
+    "d.director_name": "Steven Spielberg",
+    "totalgross": 4114233101.0
+  },
+  {
+    "d.director_name": "Michael Bay",
+    "totalgross": 2195443511.0
+  },
+  {
+    "d.director_name": "Peter Jackson",
+    "totalgross": 2112883917.0
+  },
+  {
+    "d.director_name": "James Cameron",
+    "totalgross": 1948125910.0
+  },
+  {
+    "d.director_name": "Christopher Nolan",
+    "totalgross": 1813227576.0
+  },
+  {
+    "d.director_name": "George Lucas",
+    "totalgross": 1741418480.0
+  },
+  {
+    "d.director_name": "Robert Zemeckis",
+    "totalgross": 1619309108.0
+  },
+  {
+    "d.director_name": "Chris Columbus",
+    "totalgross": 1618707624.0
+  },
+  {
+    "d.director_name": "Tim Burton",
+    "totalgross": 1557078534.0
+  },
+  {
+    "d.director_name": "Sam Raimi",
+    "totalgross": 1478115819.0
+  }
+]
